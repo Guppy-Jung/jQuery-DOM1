@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js"],"names":["window","jQuery","find","addClass"],"mappings":"AAAAA,MAAM,CAACC,MAAP,CAAc,OAAd,EAAuBC,IAAvB,CAA4B,QAA5B,EAAsCC,QAAtC,CAA+C,KAA/C","file":"main.1f19ae8e.js","sourceRoot":"..\\src","sourcesContent":["window.jQuery('#test').find('.child').addClass('red')"]}
